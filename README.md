@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mehul20
-- 👀 I’m interested in Product and Venture Capital 😇
+- 👀 I’m interested in Product, Software, and Venture Capital 😇
 - 🌐 mehulrastogi.com
 - ✍️ zest.mehulrastogi.com
 - 📫 Reach me at mehulrastogi2002@gmail.com 📧
