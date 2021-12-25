@@ -1,9 +1,16 @@
 
-- 👋 Hi, I’m @Mehul20
-- 👀 I’m interested in Product, Software, and Venture Capital 😇
-- 🌐 mehulrastogi.com
-- ✍️ zest.mehulrastogi.com
-- 📫 Reach me at mehulrastogi2002@gmail.com 📧
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${Mehul20}.${})
+
+I'm a Computer Science major at Georgia Tech, passionate about Product Management and Venture Capital 🚀
+
+I love technology, traveling and eating, sports, and much more!
+
+* Personal Website - mehulrastogi.com
+* Sometimes, I write - zest.mehulrastogi.com
+* Email - mehulrastogi2002@gmail.com 📧
+* Let's meet - https://www.mehulrastogi.com/meet/
+* I Host - https://anchor.fm/caperfy
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mehul20&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
