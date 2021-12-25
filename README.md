@@ -1,7 +1,10 @@
+Hey there, I am Mehul Rastogi 👋
+
+Glad to have you here!
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Mehul20}.${359718074})
 
-I'm a Computer Science major at Georgia Tech, passionate about Product Management and Venture Capital 🚀
+I'm a Computer Science major at Georgia Tech, passionate about Product Management and Venture Capital!
 
 I love technology, traveling and eating, sports, and much more!
 
