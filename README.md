@@ -17,6 +17,8 @@ I love technology, traveling and eating, sports, and much more!
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mehul20&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehul20&layout=compact)](https://github.com/mehul20/github-readme-stats)
+
 <!---
 Mehul20/Mehul20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
