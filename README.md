@@ -2,17 +2,22 @@ Hey there, I am Mehul Rastogi 👋
 
 Glad to have you here!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${Mehul20}.${359718074})
-
 I'm a Computer Science major at Georgia Tech, passionate about Product Management and Venture Capital!
 
-I love technology, traveling and eating, sports, and much more!
+I love technology, innovation, traveling and eating, sports, and much more!
 
 * Personal Website - https://www.mehulrastogi.com/
 * Sometimes, I write - https://zest.mehulrastogi.com/
 * Email - mehulrastogi2002@gmail.com 📧
 * Let's meet - https://www.mehulrastogi.com/meet/
 * I Host - https://anchor.fm/caperfy
+
+Currently Building:
+* Georgia Techs ESI team's Mental Health web application
+* Writing smart contracts to say Hi to me on the web and earn some Crypto $
+* My Podcast, Capercast's, landing page 
+* An empathy infused robot for caregiving purposes
+* Maybe a startup? lol
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mehul20&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
