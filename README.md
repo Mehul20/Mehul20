@@ -13,10 +13,11 @@ I love technology, innovation, traveling and eating, sports, and much more!
 * I Host - https://anchor.fm/caperfy
 
 Currently Building:
-* Georgia Techs ESI team's Mental Health web application
-* Writing smart contracts to say Hi to me on the web and earn some Crypto $
+* A new decentralized way to consume news
+* ~~Georgia Techs ESI team's Mental Health web application~~ (Done and Dusted)
+* ~~Writing smart contracts to say Hi to me on the web and earn some Crypto $~~ (Done and Dusted)
 * My Podcast, Capercast's, landing page 
-* An empathy infused robot for caregiving purposes
+* ~~An empathy infused robot for caregiving purposes~~ (Done and Dusted)
 * Maybe a startup? lol
 
 
